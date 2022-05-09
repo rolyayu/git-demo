@@ -2,5 +2,4 @@ Something
 and another one
 third one
 
-fast-forward merge setup
-and one more
+feature branch
