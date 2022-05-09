@@ -1,3 +1,5 @@
 Something 
 and another one
 third one
+
+fast-forward merge setup
